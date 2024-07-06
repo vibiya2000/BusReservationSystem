@@ -37,14 +37,14 @@ I have developed this REST API for a Bus Reservation System Portal Application. 
   Post   http://localhost:8080/swagger-ui/index.html#/admin-login-controller/logInAdmin
    - Sample Request Body
      
-        + Admin can login with mobile number and password provided at the time of registation
+         Admin can login with mobile number and password provided at the time of registation
           
 
      
             
           
               {
-                "adminPassword": "dvav9600",
+                "adminPassword": "dna960",
                 "mobileNumber": "9486090837"
                }
              
