@@ -29,8 +29,8 @@ I have developed this REST API for a Bus Reservation System Portal Application. 
     + Viewing list of available buses and booking a reservation
     + Only logged in user can access his reservations, profile updation and other features.
 # Api Root EndPoint
-http://localhost:8080/swagger-ui/index.html#/
+   # http://localhost:8080/swagger-ui/index.html#/
 # API Module Endpoints
-    # Login Module
+    Login Module
     
     
