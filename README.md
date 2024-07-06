@@ -39,7 +39,10 @@ I have developed this REST API for a Bus Reservation System Portal Application. 
      
         + Admin can login with mobile number and password provided at the time of registation
           
+
+     
             {
+          
               "adminPassword": "dvav9600",
               "mobileNumber": "9486090837"
              }
