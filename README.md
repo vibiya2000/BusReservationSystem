@@ -62,6 +62,7 @@ I have developed this REST API for a Bus Reservation System Portal Application. 
 
   Admin Controller
 
-  ![image]()
+  ![image](https://github.com/vibiya2000/BusReservationSystem/blob/main/admin%20controller.png)
+  
     
     
