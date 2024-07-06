@@ -30,8 +30,21 @@ I have developed this REST API for a Bus Reservation System Portal Application. 
     + Only logged in user can access his reservations, profile updation and other features.
 # Api Root EndPoint
    http://localhost:8080/swagger-ui/index.html#/
-   http://localhost:8888/swagger-ui/
-# API Module Endpoints
-    Login Module
+
+# Sample API Response for Admin Login
+  Post  http://localhost:8080/swagger-ui/index.html#/admin-login-controller/logInAdmin
+   - Sample Request Body
+    Admin can login with mobile number and password provided at the time of registation
+    {
+  "adminPassword": "dvav9600",
+  "mobileNumber": "9486090837"
+    }
+  - Sample Response Body
+    {
+  "adminId": 1,
+  "uuid": "0422",
+  "adminLoginTime": 2024,7,6,16,00,00
+    }
+ 
     
     
