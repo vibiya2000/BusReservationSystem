@@ -41,11 +41,12 @@ I have developed this REST API for a Bus Reservation System Portal Application. 
           
 
      
-            {
+            
           
-              "adminPassword": "dvav9600",
+              {"adminPassword": "dvav9600",
               "mobileNumber": "9486090837"
-             }
+               }
+             
   - Sample Response Body
     
             {
